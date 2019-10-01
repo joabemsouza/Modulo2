@@ -1,0 +1,7 @@
+# Magic function que roda tudo que está na célula
+# o comando acima envia o conteúdo desta célula para
+# um arquivo texto chamado 'data.txt'
+
+hello world
+today is Wednesday
+winter is comming
